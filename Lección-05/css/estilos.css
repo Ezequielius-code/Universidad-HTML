@@ -1,0 +1,30 @@
+body{
+    background-color: #5a658d;
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    color: #f5e1b3;
+}
+ul{
+    list-style-type: none;
+    background-color: #d0a57a;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    float: left;
+}
+li a{
+    font-family: 'Gochi Hand', cursive;
+    font-size: 20px;
+    display: block;
+    color: #2f5f6a;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #f5d4b3;
+}

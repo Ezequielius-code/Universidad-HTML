@@ -1,0 +1,31 @@
+body{
+    background-color: #161a1d;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    color: #70e000;
+}
+dt{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    padding: 10px;
+    color: #70e000;
+}
+dd{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    padding: 10px;
+    color: #70e000;
+}
+dt:hover{
+    background-color: #70e000;
+    color: #161a1d;
+}
+dd:hover:nth-child(odd){
+    background-color: #d71d1d;
+    color: #161a1d;
+}
+dd:hover:nth-child(even){
+    color: #161a1d;
+}
